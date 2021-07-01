@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">examen-parte1</string>
+    <string-array name="modo">
+        <item>Listo</item>
+        <item>Grilla</item>
+    </string-array>
+    <string-array name="paises">
+        <item>Peru</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Brasil</item>
+        <item>Ecuador</item>
+        <item>Chile</item>
+    </string-array>
 </resources>
